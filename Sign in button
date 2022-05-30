@@ -1,0 +1,58 @@
+Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 100),
+                    child: SignInWithEmail(onPressed: (){},),
+                  ),
+                  SizedBox(height: 4.0,),
+
+                  Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 100),
+                    child: SignInWithGoogle(onPressed: (){},),
+                  ),
+                  SizedBox(height: 4.0,),
+                  Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 100),
+                    child: SignInWithMicrosoft(onPressed: (){},),
+                  ),
+                  SizedBox(height: 4.0,),
+                  Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 100),
+                    child: SignInWithApple(onPressed: (){},),
+                  ),
+                  SizedBox(height: 4.0,),
+                  Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 100),
+                    child: SignInWithPinterest(onPressed: (){},),
+                  ),
+                   SizedBox(height: 4.0,),
+                  Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 100),
+                    child: SignInWithLinkedin(onPressed: (){},),
+                  ),
+                   SizedBox(height: 4.0,),
+                  Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 100),
+                    child: SignInWithFacebook(onPressed: (){},),
+                  ),
+                   SizedBox(height: 4.0,),
+                  Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 100),
+                    child: SignInWithTwitter(onPressed: (){},),
+                  ),
+                   SizedBox(height: 4.0,),
+                  Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 100),
+                    child: SignInWithInstagram(onPressed: (){},),
+                  ),
+                  SizedBox(height: 4.0,),
+                  Padding(
+                    padding: EdgeInsets.symmetric(horizontal: 100),
+                    child: SignInWithGithub(onPressed: (){},),
+                  ),
+
+
+                ],
+              )
+            ],
+          ));
+  }
+} 
